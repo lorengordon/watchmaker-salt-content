@@ -12,6 +12,7 @@ base:
     - name-computer
     - pshelp
     - emet
+    - windows-update-agent
     - ash-windows.stig
     - ash-windows.iavm
     # Recommend other custom states be inserted here

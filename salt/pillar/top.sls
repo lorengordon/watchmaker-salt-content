@@ -8,3 +8,4 @@ base:
     - common.netbanner
     - common.scap.windows
     - common.winrepo
+    - common.windows-update-agent
